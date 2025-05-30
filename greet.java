@@ -29,9 +29,7 @@ public class greet{
             System.out.println("please reply in "+chosenlanguange+":");
             answer = reply.nextLine();
         }
-        /*if (answer.trim().toLowerCase() ="i am fine"||"bene valeo"||"ndyaaho"){
-            System.out.println("Thank you for your accurate reply.");
-        }*/
+        
         
         reply.close();
 
